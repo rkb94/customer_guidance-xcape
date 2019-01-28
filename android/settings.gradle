@@ -1,0 +1,3 @@
+rootProject.name = 'xcape'
+
+include ':app'
